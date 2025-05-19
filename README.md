@@ -4,7 +4,8 @@ Certainly! Here's a more polished and visually appealing version of your GitHub 
 # 👋 Hi, I'm [Your Name]
 
 ## 🌟 About Me
-I'm a passionate **Web Developer** dedicated to building beautiful, responsive, and user-friendly websites. I love transforming ideas into functional web applications using modern technologies. My main skills include:
+I'm a passionate **Web Developer** dedicated to building beautiful, responsive, and user-friendly websites.
+I love transforming ideas into functional web applications using modern technologies. My main skills include:
 
 - ✅ HTML & CSS
 - ✅ JavaScript & React

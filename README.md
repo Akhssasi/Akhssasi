@@ -1,40 +1,57 @@
-Certainly! Here's a more polished and visually appealing version of your GitHub profile README, designed to make a strong impression:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <h1>👋 Hi, I'm Akhssasi</h1>
 
-```markdown
-# 👋 Hi, I'm Akhssasi
+  <div class="section">
+    <h2>🌟 About Me</h2>
+    <p>
+      I'm a passionate <strong>Web Developer</strong> dedicated to building beautiful, responsive, and user-friendly websites. I love transforming ideas into functional web applications using modern technologies. My main skills include:
+    </p>
+    <ul>
+      <li>✅ HTML &amp; CSS</li>
+      <li>✅ JavaScript &amp; React</li>
+      <li>✅ Bootstrap &amp; Tailwind CSS</li>
+      <li>✅ SCSS/SASS</li>
+    </ul>
+    <p>
+      I'm constantly learning and exploring new tools to enhance my development skills. Let's create something amazing together!
+    </p>
+  </div>
 
-## 🌟 About Me
-I'm a passionate **Web Developer** dedicated to building beautiful, responsive, and user-friendly websites.
-I love transforming ideas into functional web applications using modern technologies. My main skills include:
+  <div class="section">
+    <h2>🚀 Connect with Me</h2>
+    <ul>
+      <li><a href="https://github.com/Akhssasi" target="_blank">Akhssasi</a></li>
+      <li><a href="https://linkedin.com/in/yourprofile" target="_blank">Akhssasi</a></li>
+      <li><a href="mailto:contact@Akhssasi.com">contact@Akhssasi.com</a></li>
+    </ul>
+  </div>
 
-- ✅ HTML & CSS
-- ✅ JavaScript & React
-- ✅ Bootstrap & Tailwind CSS
-- ✅ SCSS/SASS
+  <div class="section">
+    <h2>🎯 Skills & Technologies</h2>
+    <ul>
+      <li>HTML5, CSS3, JavaScript</li>
+      <li>React.js &amp; JSX</li>
+      <li>Bootstrap, Tailwind CSS</li>
+      <li>SCSS/SASS</li>
+      <li>Responsive Design &amp; UI/UX</li>
+    </ul>
+  </div>
 
-I'm constantly learning and exploring new tools to enhance my development skills. Let's create something amazing together!
+  <div class="section projects">
+    <h2>🏆 Projects</h2>
+    <div class="project">
+      <strong>animations </strong> — project demonstrates custom CSS animations using a SCSS library. You can customize animations by editing 'animations.scss' and recompiling. h<a href="ttps://github.com/Akhssasi/SCSSAnimation ">Animation SCSS</a>
+    </div>
 
-## 🚀 Connect with Me
-🔗 https://github.com/Akhssasi  
-🔗 https://linkedin.com/in/Akhssasi
-📧 mailto:conatct@Akhssasi.com
+  </div>
 
-## 🎯 Skills & Technologies
-- HTML5, CSS3, JavaScript
-- React.js & JSX
-- Bootstrap, Tailwind CSS
-- SCSS/SASS
-- Responsive Design & UI/UX
+  <div class="footer">
+    ✨ <strong>Let's build something beautiful together!</strong> ✨
+  </div>
 
-## 🏆 Projects
-- **animations 1** —
-This project demonstrates custom CSS animations using a SCSS library.
-You can customize animations by editing 'animations.scss' and recompiling.
-https://github.com/Akhssasi/SCSSAnimation
- 
-
-*(Feel free to explore my repositories for more projects!)*
-
----
-
-✨ **Let's build something beautiful together!** ✨
+</body>
+</html>
